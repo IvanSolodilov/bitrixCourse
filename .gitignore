@@ -4,3 +4,7 @@
 # Но не игнорировать саму папку local и всё, что внутри неё
 !local/
 !local/**
+!events/
+!events/**
+!events/about/
+!events/about/**
